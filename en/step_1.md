@@ -4,7 +4,7 @@ The code example below will create three tiles of equal height. The text within 
 
 + `xcenter` places the text in the centre horizontally
 + `ycenter` places the text in the center vertically
-+ `tile` sets the height for the `div` content
++ `tile` sets a fixed height for the `div` content
 
 --- code ---
 ---
