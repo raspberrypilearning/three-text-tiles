@@ -1,11 +1,9 @@
-title: default-project-template
+title: "Add tiles: text, text, text"
 hero_image: images/banner.png
-description: default-project-template description
+description: Add three text tiles with equal heights
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: "Add tiles: text, text, text"
