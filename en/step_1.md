@@ -1,4 +1,4 @@
-![A screenshot of a webpage with three equal height tiles in the center. Each with centred text.](images/three-tiles.PNG)
+![A screenshot of a page with three equal height tiles in the center. Each with centred text.](images/three-tiles.PNG)
 
 The code example below will create three tiles of equal height. The text within the tile will be centred on the x and y axis. 
 
