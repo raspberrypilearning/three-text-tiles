@@ -1,6 +1,6 @@
 ![A page with three equal height tiles in the centre. Each tile has centred text.](images/three-tiles.PNG)
 
-The code example below creates three tiles of equal height. The text within the tile is centred on the x- and y-axis. 
+The code example creates three tiles of equal height. The text within the tile is centred on the x- and y-axis. 
 
 + `xcenter` places the text in the centre horizontally
 + `ycenter` places the text in the centre vertically
