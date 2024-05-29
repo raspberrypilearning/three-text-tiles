@@ -1,10 +1,10 @@
-![A screenshot of a page with three equal height tiles in the center. Each with centred text.](images/three-tiles.PNG)
+![Une capture d'écran d'une page avec trois tuiles de même hauteur au centre. Chacune avec du texte centré.](images/three-tiles.PNG)
 
-The code example below will create three tiles of equal height. The text within the tile will be centred on the x and y axis.
+L'exemple de code ci-dessous créera trois tuiles de même hauteur. Le texte dans la tuile sera centré sur l'axe x et y.
 
-- `xcenter` places the text in the centre horizontally
-- `ycenter` places the text in the center vertically
-- `tile` sets a fixed height for the `div` content
+- `xcenter` place le texte au centre horizontalement
+- `ycenter` place le texte au centre verticalement
+- `tile` définit une hauteur fixe pour le contenu `div`
 
 ## --- code ---
 
@@ -18,13 +18,13 @@ line_highlights:
 ```
   <section class="wrap">
     <div class="tertiary xcenter ycenter tile">
-      <p>Add text here.</p>
+      <p>Ajouter du texte ici.</p>
     </div>
     <div class="secondary xcenter ycenter tile">
-      <p>Add text here.</p>
+      <p>Ajouter du texte ici.</p>
     </div>
     <div class="tertiary xcenter ycenter tile">
-      <p>Add text here.</p>
+      <p>Ajouter du texte ici.</p>
     </div>
   </section>
 ```
