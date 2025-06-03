@@ -1,10 +1,10 @@
-![A page with three equal height tiles in the centre. Each tile has centred text.](images/three-tiles.PNG)
+![页面中央有三个等高的块。 每个块都有居中文本。](images/three-tiles.PNG)
 
-The code example creates three tiles of equal height. The text within the tile is centred on the x-axis and y-axis.
+该代码示例创建了三个等高的块。 块内的文本位于 x 轴和 y 轴的中心。
 
-- `xcenter` places the text in the centre horizontally
-- `ycenter` places the text in the centre vertically
-- `tile` sets a fixed height for the `div` content
+- `xcenter` 将文本水平居中
+- `ycenter` 将文本垂直居中
+- `tile` 为 `div` 内容设置固定高度
 
 ## --- code ---
 
@@ -18,13 +18,13 @@ line_highlights:
 ```
   <section class="wrap">
     <div class="tertiary xcenter ycenter tile">
-      <p>Add text here.</p>
+      <p>在此处添加文本。</p>
     </div>
     <div class="secondary xcenter ycenter tile">
-      <p>Add text here.</p>
+      <p>在此处添加文本。</p>
     </div>
     <div class="tertiary xcenter ycenter tile">
-      <p>Add text here.</p>
+      <p>在此处添加文本。</p>
     </div>
   </section>
 ```
