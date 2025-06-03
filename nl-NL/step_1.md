@@ -1,9 +1,9 @@
-![A page with three equal height tiles in the centre. Each tile has centred text.](images/three-tiles.PNG)
+![Een schermafbeelding van een pagina met drie tegels van gelijke hoogte in het midden. Elk met gecentreerde tekst.](images/three-tiles.PNG)
 
-The code example creates three tiles of equal height. The text within the tile is centred on the x-axis and y-axis.
+Het voorbeeld van de code hieronder maakt drie tegels van gelijke hoogte. De tekst in de tegel wordt gecentreerd op de x- en y-as.
 
 - `xcenter` plaatst de tekst horizontaal in het midden
-- `ycenter` places the text in the centre vertically
+- `ycenter` plaatst de tekst verticaal in het midden
 - `tile` stelt een vaste hoogte in voor de `div`-inhoud
 
 ## --- code ---
